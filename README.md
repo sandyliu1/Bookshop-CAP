@@ -2,6 +2,8 @@
 
 Original:
 https://github.tools.sap/CoE-GC-BTP-App-Dev/bookshop
+
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
